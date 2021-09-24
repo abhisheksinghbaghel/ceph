@@ -21,4 +21,5 @@ steps:
   inputs:
     scanType: 'Register'
     verbosity: 'Verbose'
+    sourceScanPath: '..'
     alertWarningLevel: 'High'
